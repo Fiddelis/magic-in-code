@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://fiddelis.me/magic-in-code/sitemap.xml

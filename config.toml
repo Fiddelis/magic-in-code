@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://fiddelis.dev"
+base_url = "https://fiddelis.me/magic-in-code"
 theme = "anemone"
 title = "Magic in Code"
 
